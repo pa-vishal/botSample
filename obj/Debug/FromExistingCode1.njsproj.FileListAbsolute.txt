@@ -1,0 +1,2 @@
+C:\Users\Vishal\Vishal Personal\Study\Projects\Hubots\phoenixBot\phoenixBot\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Vishal\Vishal Personal\Study\Projects\Hubots\phoenixBot\phoenixBot\obj\Debug\FromExistingCode1.njsprojResolveAssemblyReference.cache
